@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=2mhk&show_icons=true&theme=tokyonight)
+
+![:dararara](https://count.getloli.com/get/@:dararara?theme=moebooru)
 
 <!--
 **2mhk/2mhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
