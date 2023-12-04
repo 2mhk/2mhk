@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=2mhk&show_icons=true&theme=tokyonight)
 
 #### Visitors (Since 2023/09/01)
-![](https://profile-counter.glitch.me/greedysky/count.svg)
+![](https://profile-counter.glitch.me/2mhk/count.svg)
 
 <!--
 **2mhk/2mhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
