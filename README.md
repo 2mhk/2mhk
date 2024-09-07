@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=2mhk&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2mhk&layout=compact&hide=css,scss,shell,html&langs_count=8&show_icons=true&theme=radical)
 #### Visitors (Since 2023/09/01)
 ![](https://profile-counter.glitch.me/2mhk/count.svg)
 
